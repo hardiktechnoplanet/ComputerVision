@@ -10,5 +10,7 @@ Timing performance is compared for the above techniques.
 
 Source Image: 
 <img src="Images/threshold.png" width="200" />
+
+
 Thresholded Image:
 <img src="Images/thresholdedImage.jpg" width="200" />
